@@ -1,6 +1,6 @@
 # Hello World 🚀
 
-My name is Tiago Godoy, born in Brazil, I'm a software developer and a software engineer in development. Besides software I like working with hardware as well, in the past I worked on personal projects using Arduino, RaspberryPi, CNC and 3D printing technologies. 
+My name is Tiago Godoy, born in Brazil, I'm a software developer and a software engineer in development.I like working with hardware as well, in the past I have worked on personal projects using Arduino, RaspberryPi, CNC and 3D printing technologies. 
 
 #### You can check out my other social medias bellow:
 
