@@ -9,6 +9,9 @@ Take a look at side project I'm currently working on:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tiago-moreira-0137811b9/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCz383XOzCyl6bIeHCtjFPSQ" alt="Youtube">
+    <img src="https://img.shields.io/badge/-YouTube-DC3535?style=for-the-badge&logo=Youtube&logoColor=FFFFFF"/>
   </a>
 </p>
