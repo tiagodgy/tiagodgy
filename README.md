@@ -1,6 +1,6 @@
 # Hello World 🚀
 
-My name is Tiago Godoy, born in Brazil, I'm a software developer and a software engineer in development.
+Hello and welcome to my Github profile! I am a software engineer and cyber security student with a passion for solving problems and building innovative solutions. My skillset includes React, React Native, WordPress, Python, and PocketBase. I am always seeking to learn and grow as a developer, and I am excited to share my projects and contributions with the community. Thank you for visiting my profile, and I hope you find something of interest here.
 
 
 #### You can check out my other projects bellow:
