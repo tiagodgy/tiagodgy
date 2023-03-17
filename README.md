@@ -6,7 +6,7 @@ Hello and welcome to my Github profile! I am a software engineer and cyber secur
 #### You can check out my projects and social media bellow:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tiago-moreira-0137811b9/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/tiago-godoy-0137811b9/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF"/>
   </a>
   </a>
